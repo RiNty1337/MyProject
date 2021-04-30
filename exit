@@ -1,0 +1,53 @@
+[33mcommit 3a3b4386b029e1b76ca84aaa23635d06695ff3ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Tue Apr 6 16:44:54 2021 +0300
+
+    add 2 folders for scripts
+
+[33mcommit b11d444da2de8bc20d68951b9b18dbbea60a9ef6[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Tue Mar 30 15:16:45 2021 +0300
+
+    add script
+
+[33mcommit 23265e17e9014b97710864b87e71a726079cb119[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 16:22:14 2021 +0300
+
+    ignore file added
+
+[33mcommit f5c8c71c8481c304f892337f2752e4b14960561b[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 15:59:13 2021 +0300
+
+    ignore file added
+
+[33mcommit 22351bc7c56e3799469fafd0e733e8635b22357b[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 15:58:03 2021 +0300
+
+    ignore file added
+
+[33mcommit 71dcad6df8c4a6e5b3fbd8beb88f7a04893a6c11[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 15:55:51 2021 +0300
+
+    ignore file added
+
+[33mcommit 840710fefb9b7802e6b99eb68ac0412553b5af0c[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 15:36:54 2021 +0300
+
+    Added file lab3/upr1.py
+
+[33mcommit 834836b870ce206ef3d1eb468680ef5e247e3b31[m
+Author: RiNty1337 <koc9k1337@mail.ru>
+Date:   Thu Mar 18 15:16:12 2021 +0300
+
+    Added something to README
+
+[33mcommit d2cac09382694c2a5c89897fb819ba2bd4efe820[m
+Author: RiNty1337 <80854233+RiNty1337@users.noreply.github.com>
+Date:   Wed Mar 17 23:08:23 2021 +0300
+
+    Initial commit
